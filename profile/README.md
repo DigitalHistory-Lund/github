@@ -20,3 +20,8 @@ collaboration with [Lund Centre for the History of Knowledge (LUCK)
 The platform works with [Lund University Libraries](https://www.lub.lu.se/en/)
 and other GLAM-partners in Sweden. It is funded by the Joint Faculties of
 Humanities and Theology.
+
+---
+
+<a href="https://www.lunduniversity.lu.se/" target="_blank"><img src="img/logo-en-lund.png" alt="Lund University" height=60 style="float: right"></a>
+<p>
