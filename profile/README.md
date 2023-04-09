@@ -22,6 +22,6 @@ and other GLAM-partners in Sweden. It is funded by the Joint Faculties of
 Humanities and Theology.
 
 ---
-
+<p align="center" width="70%">
 <a href="https://www.lunduniversity.lu.se/" target="_blank"><img src="img/logo-en-lund.png" alt="Lund University" height=60 style="float: right"></a>
 <p>
